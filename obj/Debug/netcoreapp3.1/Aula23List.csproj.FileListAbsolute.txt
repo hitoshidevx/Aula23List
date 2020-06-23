@@ -1,0 +1,13 @@
+C:\Users\Yokogawa\Documents\Projetos (treino)\Aula23List\bin\Debug\netcoreapp3.1\Aula23List.exe
+C:\Users\Yokogawa\Documents\Projetos (treino)\Aula23List\bin\Debug\netcoreapp3.1\Aula23List.deps.json
+C:\Users\Yokogawa\Documents\Projetos (treino)\Aula23List\bin\Debug\netcoreapp3.1\Aula23List.runtimeconfig.json
+C:\Users\Yokogawa\Documents\Projetos (treino)\Aula23List\bin\Debug\netcoreapp3.1\Aula23List.runtimeconfig.dev.json
+C:\Users\Yokogawa\Documents\Projetos (treino)\Aula23List\bin\Debug\netcoreapp3.1\Aula23List.dll
+C:\Users\Yokogawa\Documents\Projetos (treino)\Aula23List\bin\Debug\netcoreapp3.1\Aula23List.pdb
+C:\Users\Yokogawa\Documents\Projetos (treino)\Aula23List\obj\Debug\netcoreapp3.1\Aula23List.csprojAssemblyReference.cache
+C:\Users\Yokogawa\Documents\Projetos (treino)\Aula23List\obj\Debug\netcoreapp3.1\Aula23List.csproj.CoreCompileInputs.cache
+C:\Users\Yokogawa\Documents\Projetos (treino)\Aula23List\obj\Debug\netcoreapp3.1\Aula23List.AssemblyInfoInputs.cache
+C:\Users\Yokogawa\Documents\Projetos (treino)\Aula23List\obj\Debug\netcoreapp3.1\Aula23List.AssemblyInfo.cs
+C:\Users\Yokogawa\Documents\Projetos (treino)\Aula23List\obj\Debug\netcoreapp3.1\Aula23List.dll
+C:\Users\Yokogawa\Documents\Projetos (treino)\Aula23List\obj\Debug\netcoreapp3.1\Aula23List.pdb
+C:\Users\Yokogawa\Documents\Projetos (treino)\Aula23List\obj\Debug\netcoreapp3.1\Aula23List.genruntimeconfig.cache
