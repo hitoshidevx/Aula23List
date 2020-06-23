@@ -8,6 +8,10 @@ namespace Aula23List
         public int Vencimento { get; set; }
         public int Cvv { get; set; }
 
+        public Cartao(){
+            
+        }
+
         //Cartão de Crédito
         public Cartao(string _titular, int _numero, string _bandeira, int _vencimento, int _cvv){
 
